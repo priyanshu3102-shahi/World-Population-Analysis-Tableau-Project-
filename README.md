@@ -39,7 +39,7 @@ World_Population_Tableau_Project/<br>
 │   └── world_population.csv        # Raw dataset used for analysis <br>
 │
 ├── analysis/<br>
-│   ├── Task1.twbx   # Data Cleaning And Preprocessing (Tableau packaged workbook)<br>
-│   └── Task2.twbx   # Advanced Functions and Complex Calculations (Tableau packaged workbook) <br>
+│   ├── cleaned_data.twbx   # Data Cleaning And Preprocessing (Tableau packaged workbook)<br>
+│   └── calculations.twbx   # Advanced Functions and Complex Calculations (Tableau packaged workbook) <br>
 |
 └──  README.md                      # Project documentation (this file)
